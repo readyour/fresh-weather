@@ -12,11 +12,11 @@ const STATIC_SERVER_URL = 'https://tianqi-1d3bf9.tcb.qcloud.la'
 const BACKGROUND_PERFIXER = `${STATIC_SERVER_URL}/bg`
 const WEATHER_IMAGE_PERFIXER = `${STATIC_SERVER_URL}/icon`
 
-const KEY = 'xxxxxxxxxxxx'   //和风天气中应用的key名称
-const USER_ID = 'HE18888888888888899' //和风天气中应用的密钥ID
+const KEY = 'posion-web-api-key'   //和风天气中应用的key名称
+const USER_ID = 'HE2212121420491511' //和风天气中应用的密钥ID
 
-const WECHAT_APPID = 'wx8696xxxxxxxxxce6'
-const WECHAT_APP_SECRET = '12wwwwwxxxxxxxxxxxxxxxx2'
+const WECHAT_APPID = 'wx3640a410f959d5c2'
+const WECHAT_APP_SECRET = '58877b9e40bf774a044493d91e757c3b'
 const $ = {
   getWechatAppConfig: () => {
     return {
